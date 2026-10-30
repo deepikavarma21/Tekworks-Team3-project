@@ -26,6 +26,8 @@ cd frontend
 npm install
 npm run dev
 ```
+###Live frontend 
+https://tekworks-team3-project.vercel.app/
 
 ## API Base URL
 Set VITE_API_BASE_URL if the backend runs on a different host or port:
